@@ -1,29 +1,5 @@
-# E02a-Operators
-An exercise exploring python operators and data types
 
-This repository contains a few files that you will need to alter to complete the assignment. The instructions for the exercise are also on Canvas.
-
-Comments in Python are marked by a # sign (for single-line comments) or three matching quotation marks (''' or """) if a comment requires more than one line. They should also appear in a different color in VS Code. The Python Interpreter ignores comments, so you can safely include any information you want there.
-
-As with your assignments, please edit the LICENSE file (replace the [year] [fullname] with the current year and your name); you will also be expected to edit README.md (this file) to describe what you have accomplished.
-
----
-
-As always, Fork this repository, and then Clone it to your local computer.
-
-For this exercise, you will need to edit main.py. The file is broken into many functions (def blocks), each of which is designed to perform a basic operation. Many of these are arithmetic, some work with lists or strings, and others produce random values.
-
-To help you along, I have implemented the add function. Also, here are a few online resources that might be useful:
-
- * [Python operators](https://www.tutorialspoint.com/python/python_basic_operators.htm)
- * [Python built-in data types](https://realpython.com/python-data-types/)
- * [The Python slice operator](https://techwithtim.net/tutorials/python-programming/beginner-python-tutorials/slice-operator/)
- * [The Python Random Module](https://www.pythonforbeginners.com/random/how-to-use-the-random-module-in-python)
- * [Python lists](https://www.w3schools.com/python/python_lists.asp)
-
- As always, commit and push your changes to GitHub, and then turn in the URL to your repository on Canvas. 
-
----
+So this assignment took me longer than I thought it was. I was very confused about the point of typine all these functions in and not printing anything and am still confused with the what the main def does with all the information I typed above. All in all whenever I couldn't find the right command for the def I would either just try typing what I thought the function might be and VS code suggested it and used trial and error. Some of the stuff using the random and shuffle I struggled to find the right function for so I had to look up the specific task I was trying to do and I go to where its at now. The errors that popped up when saving the code were also very helpful to fix some mistakes I had along the way. I still have 1 I can not figure out with the shuffle as it says that the function has no return. I tried adding antoher Returnto = 1  but that didn't fix it. All in all getting more comfortable using python and am excited to learn how to make a game engine. 
 
 The grading criteria will be as follows:
 
